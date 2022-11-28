@@ -18,7 +18,7 @@ function shade(x, y, t) {
     //❓❓ Question 2
     //❓❓ Question 3
     //❓❓ Question 4
-    return [1,0,1];
+    return [x,y,0];
 }
 
 /**

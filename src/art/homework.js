@@ -18,7 +18,7 @@ function shade(x, y, t) {
     //❓❓ Question 2
     //❓❓ Question 3
     //❓❓ Question 4
-    return [x,y, Math.sin(t)];
+    return [x,y, Math.sin(t)];1
 }
 
 /**
